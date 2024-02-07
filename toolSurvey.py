@@ -3,7 +3,7 @@ import csv
 import pyperclip
 import random
 
-fileName = 'Base de dados - Planilha.csv'
+fileName = 'Caminho para CSV'
 
 colArray = []
 
